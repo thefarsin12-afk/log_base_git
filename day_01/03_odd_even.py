@@ -9,5 +9,5 @@ def odd_even(num1):
         print("Even")
 
     else:print("Odd")
-#new
+
 odd_even(8)        
